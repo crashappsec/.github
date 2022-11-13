@@ -1,7 +1,5 @@
 ## Hello World, we are Crash Override  👋
 
-![GitHub TV](https://user-images.githubusercontent.com/143776/184708616-b296e765-7195-42d5-a04a-164108cb3439.png)
-
 We are new applcation security company founded in June 2022 by [Mark Curphey](https://www.linkedin.com/in/curphey/) and [John Viega](https://www.linkedin.com/in/viega/).  While the company is new, we were right there at the start of the application security movement 20 years ago, authoring the first ever book on the topic, [Building Secure Software](https://www.amazon.co.uk/Building-Secure-Software-Addison-wesley-Professional/dp/0321774957) and founding [OWASP](https://www.owasp.org), the Open Web Application Security Project. Recently we have been founders of two application security companies, [SourceClear](https://fortune.com/2018/04/09/buy-ca-technologies-veracode-sourceclear/) and [Capsule8](https://www.darkreading.com/cloud/sophos-acquires-capsule8-for-linux-server-container-security).
 
 We are on a mission to help application security teams **reduce their workload** and **focus on what matters**.
