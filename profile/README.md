@@ -1,2 +1,1 @@
-## Hello World, we are Crash Override  👋
-![dcuthbert_hitb_graffitt.jpg](dcuthbert_hitb_graffitt.jpg)
+![alt text](https://github.com/crashappsec/.github/blob/main/dcuthbert_hitb_graffiti.jpg)
