@@ -1,10 +1,7 @@
 
 ![Crash Override Logo](https://crashoverride.com/images/logos/crash-override-logo-black.png)
 
-
-<p align="center">
-### Telemetry and observability for the software engineering lifecycle. Realtime answers about the development process and production infrastructure, for platform and security engineers.
-</p>
+Telemetry and observability for the software engineering lifecycle. Realtime answers about the development process and production infrastructure, for platform and security engineers.
 
 ## What is Crash Override?
 Today, software engineers don't have visibility into the infrastructure, and infrastructure engineers don't have visibility into the development process. It is slow, frustrating, and often impossible, to get the information they need to do their jobs.
