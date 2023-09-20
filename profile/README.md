@@ -20,11 +20,12 @@ You can download binary releases for our open source projects at our releases pa
 ## Contact Us
 
 Our website is https://crashoverride.com
+
 Our email is hello@crashoveride.com
 
 ## Documentation 
 
-You can find our documentation at https://crashoverride.com/docs/.
+You can find our documentation at https://crashoverride.com/docs/
 
 ## Contributions
 
@@ -32,7 +33,7 @@ We welcome contributions to our open source projects. You can read about our Con
 
 ## Privacy Policy 
 
-You can find our Privacy Policy [here](https://crashoverride.com/privacy). 
+You can find our privacy policy [here](https://crashoverride.com/privacy). 
 
 ## Code of Conduct
 
