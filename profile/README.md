@@ -3,10 +3,7 @@
 
 
 <p align="center">
-
-### Telemetry and observability for the software engineering lifecycle.
-
-### Realtime answers about the development process and the production infrastructure, for platform and security engineers.
+### Telemetry and observability for the software engineering lifecycle. Realtime answers about the development process and production infrastructure, for platform and security engineers.
 </p>
 
 ## What is Crash Override?
