@@ -2,23 +2,24 @@
 ![Crash Override Logo](https://crashoverride.com/images/logos/crash-override-logo-black.png)
 
 
-**Telemetry and observability for the software engineering lifecycle.** 
+<p align="center">
 
-**Realtime answers about the development process and the production infrastructure, for platform and security engineers.**
+### Telemetry and observability for the software engineering lifecycle.
+
+### Realtime answers about the development process and the production infrastructure, for platform and security engineers.
+</p>
 
 ## What is Crash Override?
-Crash Override is a cloud platform for development, infrastructure and security engineers, that provides answers to their visibility gaps.
-
 Today, software engineers don't have visibility into the infrastructure, and infrastructure engineers don't have visibility into the development process. It is slow, frustrating, and often impossible, to get the information they need to do their jobs.
 
 Security engineers don't have visibility into the infrastructure or into the development process. They are flying blind, unable to help the team decide what to work on Now, Next or Never.
 
-We collect metadata from every build artifact, including source code, binaries and containers. We enrich this from your existing development, security and infrastructure tools, and create a queryable graph for you to get the information you need.
+Crash Override is a cloud platform that collects metadata from every build artifact, including source code, binaries and containers. We enrich this from your existing development, security and infrastructure tools, and create a queryable graph for you to get the information you need.
 
-We release the core of our product called [Chalk as an open-source project](), and provide a free tier for our cloud platform.
+We release the core of our product called Chalk as an open-source project [here](), and provide a free tier for our cloud platform.
 
 ## Flagship Open Source Projects 
-We have two flagship open source projects, one currently released called Chalk and one we expected to release before the end of the year called Curiosity. Both are releases under the GPL V3 license.
+We have two flagship open source projects, one that is currently released called Chalk, and one that we expect to release before the end of the year called Curiosity. Both are released under the GPL V3 license.
 
 You can download binary releases for our open source projects at our releases page [here](https://crashoverride.com/releases).
 
