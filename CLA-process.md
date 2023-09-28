@@ -1,11 +1,10 @@
 Contributions
 =============
 
-| Type                      | Where to contribute                                                                                                                            |
-| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| File an issue             | Submit an issue in [the relevant GitHub repository](https://github.com/crashappsec)                                                            |
-| Update this documentation | Create a PR or submit an issue in the [Documentation repository](https://github.com/crashappsec/docs)                                          |
-| Contribute code changes   | Follow the process [below](#contributing-to-the-project), then raise a PR in [the relevant GitHub repository](https://github.com/crashappsec/) |
+| Type                    | Where to contribute                                                                                                                            |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| File an issue           | Submit an issue in [the relevant GitHub repository](https://github.com/crashappsec)                                                            |  |
+| Contribute code changes | Follow the process [below](#contributing-to-the-project), then raise a PR in [the relevant GitHub repository](https://github.com/crashappsec/) |
 
 
 Contributing Code to the Project
@@ -18,8 +17,8 @@ with its GPLv3 license and its codebase can remain fully open.
 1. If you don't already have one make an account on [GitHub](https://github.com/).
 2. Read and agree to the project's code of conduct [here](https://github.com/crashappsec/.github/blob/main/code-of-conduct.md)
 3. Read the current version of the Contributor License Agreement (CLA), the
-   [individual CLA is here](https://github.com/crashappsec/chalk-internal/blob/main/cla-individual-1.0.md), 
-   the [entity CLA is here.](https://github.com/crashappsec/chalk-internal/blob/main/cla-entity-1.0.md)
+   [individual CLA is here](https://github.com/crashappsec/.github/blob/main/cla-individual-1.0.md), 
+   the [entity CLA is here.](https://github.com/crashappsec/.github/blob/main/cla-entity-1.0.md)
    (Please ensure you understand and agree to them, if you have any questions please reach
    out to us at [opensource@crashoverride.com](mailto:opensource@crashoverride.com))
 
@@ -50,8 +49,8 @@ look as follows:
 [date in YYYY-MM-DD format]
 
 I hereby agree to the terms of the Individual Contributors License
-Agreement version 1.0 (https://github.com/crashappsec/chalk-internal/blob/main/cla-individual-1.0.md), with MD5 checksum
-2acaee37d7cd4ca34c537bcc0d5ef6d9.
+Agreement version 1.0 (https://github.com/crashappsec/.github/blob/main/cla-individual-1.0.md),
+with MD5 checksum 2acaee37d7cd4ca34c537bcc0d5ef6d9.
 
 I furthermore declare that I am authorized and able to make this
 agreement and sign this declaration.
@@ -73,7 +72,7 @@ look as follows:
 [date YYYY-MM-DD]
 
 I hereby agree to the terms of the Entity Contributors License
-Agreement version 1.0 (https://github.com/crashappsec/chalk-internal/blob/main/cla-entity-1.0.md), with MD5 checksum
+Agreement version 1.0 (https://github.com/crashappsec/.github/blob/main/cla-entity-1.0.md), with MD5 checksum
 59ea9b11340d11f9d730d7e85c61ac96.
 
 I furthermore declare that I am authorized and able to make this
